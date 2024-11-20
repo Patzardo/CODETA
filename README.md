@@ -36,9 +36,13 @@ Los cursos aprobados son desarrollados por los miembros y están disponibles par
 Únete a nuestra comunidad y forma parte de la revolución educativa descentralizada:
 
 Discord: 
+
 Twitter: https://x.com/codetaftw
+
 Facebook: https://www.facebook.com/profile.php?id=61565680202915
+
 LinkedIn: https://www.linkedin.com/company/codetaftw/about/
 
+
 🛡️ Licencia
-Este proyecto está bajo la Licencia MIT.
+Este proyecto está bajo la Licencia Apache.
